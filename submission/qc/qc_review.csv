@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,03106,"Ở nền xa bên trái còn lọt 1 three_wheeler nhỏ (khớp bẫy missing trên img_003.jpg); các box chính ở tiền cảnh (#13 three_wheeler, #3 person, #14 motorbike) đã đúng"
+img_006.jpg,50,thua,03106,"Box #50 motorbike bao trùng lên nhiều xe máy đỗ sát nhau trong khi đã có #45 motorbike cho xe đầu dãy"
+img_013.jpg,76,sai_vi_tri_kich_thuoc,03106,"Box #76 ở nền phải bị lỏng biên trái/dưới (khớp bẫy loose trên img_013.jpg) và gán truck cho xe van trắng"
+img_014.jpg,79,sai_vi_tri_kich_thuoc,03106,"Box #79 motorbike ở góc phải dưới mở rộng quá sang trái bao cả vùng mặt đường trống"
+img_024.jpg,,khong,03106,"Ảnh giao thông ban đêm phức tạp (ca khó can_review #216 bus): các cụm xe mờ đã bao bằng ignore_region và các xe rõ ở tiền cảnh gán đúng"
+img_033.jpg,,khong,03106,"5 đối tượng (car #304 #307 #308, motorbike #305, person #306) và vùng ignore_region #309 đều ôm sát, đúng lớp"
